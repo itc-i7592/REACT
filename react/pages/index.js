@@ -1,9 +1,9 @@
-import Footer from 'components/footer2'
+import Footer from 'components/footer'
 
 export default function Home () {
   return (
     <>
-      <Footer />
+      <p>CodePrep</p>
     </>
   )
 }
